@@ -147,7 +147,8 @@ PC用のスタイル
     background-position: right top;
   }
 
-  .close {
+  #close {
     background-color: #ce933e;
+    border: none;
   }
 }
